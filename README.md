@@ -1,7 +1,3 @@
 # FC-NN_NanoDesign
 
-Compact planar photonic elements suitable for efficient control over the polarization of light are of high interest nowa-
-days. Here we propose a design of a chiral metasurface based on asymmetric unit cells formed by plasmonic nanodisks
-and nanoblocks. Using the FDTD analysis we show that the collective lattice resonance harnessed by the diffraction
-coupling of the plasmonic unit cell’s is the heart of the revealed resonant 37% circular dichroism effect. Chirality of
-such a metasurface is analyzed as well by deep-learning-assisted optimization of the metasurface.
+Compact planar photonic elements serving for efficient control over the polarization of light are of paramount importance in photonics. Here we propose a design of a chiral periodic metasurface based on asymmetric unit cells formed by plasmonic nanodisks and nanorods. Using the FDTD analysis, we show that the collective lattice resonance harnessed by the diffraction coupling of the plasmonic unit cells is the heart of the revealed resonant 38% circular dichroism effect. The chirality of considered structure is enhanced using the deep-learning-assisted optimization of the metasurface design as well.
