@@ -1,8 +1,0 @@
-period x: 4.6e-07
-period y: 4.6e-07
-radius: 8e-08
-height: 5e-08
-a: 1.6e-07
-b: 2.8e-07
-bias: 1e-07
-gap: 5e-08
