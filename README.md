@@ -1,6 +1,5 @@
-# FC-NN_NanoDesign
-
 # Collective lattice and plasmonic resonances in the enhancement of circular dichroism in disk–rod metasurface
+
 Journal of Applied Physics 133, 043103 (2023); https://doi.org/10.1063/5.0124798
 
 ### Abstract
